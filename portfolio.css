@@ -1,0 +1,196 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.br {
+    border-bottom-left-radius: 34% 81px;
+    border-bottom-right-radius: 55% 214px;
+}
+#info{
+    height:630px;
+    background-color:black;
+    color:white;
+    padding:100px 60px;
+}
+
+.card {
+    margin: 50px;
+}
+
+.card-style {
+    width: 17%;
+}
+.container2{
+    background-color: black;
+    color:white;
+    display:flex;
+    height: 500px;
+    padding:60px;
+}
+.hii{
+    font-size:48px;
+}
+.name{
+    font-size:48px;
+    color:orange;
+}
+.me-4{
+    font-size:22px;
+}
+.hire{
+    background-color: orange;
+    color:white;
+    border:none;
+    border-radius:20px;
+    margin-top: 20px;
+    padding:10px;
+    width:90px;
+}
+.inner_box{
+    padding: 40px;
+}
+.image1{
+    width:430px;
+    height: 350px;;
+}
+
+.container1{
+    background-color: black;
+    color:white;
+     width:100%;
+    height: 550px;
+    padding:60px;
+}
+
+.box{
+    width:360px;
+    height: 185px;
+    text-align: center;
+    background-color: #565555;
+    border:5px solid white;
+    margin:130px auto;
+    padding:5px;
+    border-radius:15px;
+}
+.image{
+    width:50px;
+    height: 50px;
+    border-radius:50%;
+}
+h5{
+    color:#c37c2d;
+    font-size:15px;
+}
+.visit{
+    width:70px;
+    padding:10px;
+    border-radius:20px;
+    border:none;
+    margin-top:8px;
+}
+#services{
+    background-color: black;
+    color:white;
+    display:flex;
+    height: 820px;
+    padding:60px;
+}
+.face_img{
+    width: 80px;
+    height: 80px;
+    margin-bottom:15px;
+}
+span{
+    color:orange
+}
+.box2{
+    background-color: white;
+    color:black;
+    padding:18px;
+    border-radius:10px;
+}
+.Cv{
+    background-color: orange;
+    color:white;
+    border:none;
+    border-radius:20px;
+    margin-top: 40px;
+    padding:10px;
+    width:120px;
+}
+.box3,.box4,.box5{
+    text-align: center;
+    margin:10px;
+}
+.box3{
+    position:relative;
+    top:190px;
+    right:220px;
+}
+#project{
+    padding:60px;
+}
+.box5{
+    position:relative;
+    top:380px;
+    right:290px;
+}
+.box4{
+    position:relative;
+    top:35px;
+    right:40px;
+}
+
+.learn{
+    color:blue;
+    background-color: white;
+    border:none;
+    border-radius:8px;
+    padding:10px;
+    margin-top:15px;
+}
+
+.awesome{
+    font-size:40px;
+}
+.image3{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    color:black;
+    padding:15px;
+    font-size:21px;
+   color:orange;
+    font-weight:bold;
+    
+}
+#main_container{
+    width: 100%;
+    height: 200px;
+}
+.experience{
+    margin-top: 22px;
+}
+.main{
+    text-align: center;
+    background-color: black;
+    color:white;
+    margin:auto;
+    width:450px;
+    display: flex;
+    gap:45px;
+}
+p{
+    font-size:20px
+}
+.nav_head{
+    color:red;
+}
+.social-icon{
+    font-size:40px;
+    margin:8px;
+    
+}
